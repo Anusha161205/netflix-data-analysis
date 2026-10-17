@@ -33,13 +33,13 @@ How has Netflix's content strategy changed over time? Specifically:
 
 ## Charts
 
-![TV share and catalog growth](images/tv_share_and_growth.png)
+![TV share and catalog growth](tv_share_and_growth.png)
 
-![Non-US share of content](images/non_us_share.png)
+![Non-US share of content](non_us_share.png)
 
-![Age of titles when added](images/age_of_titles.png)
+![Age of titles when added](age_of_titles.png)
 
-![TV share by country](images/tv_share_by_country.png)
+![TV share by country](tv_share_by_country.png)
 
 ---
 
